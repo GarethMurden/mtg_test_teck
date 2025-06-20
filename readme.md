@@ -30,13 +30,13 @@ There are two possible output formats which you can select once the script launc
 
 #### Text only
 
-![sample output page with plain text detail of several MTG cards](https://bitbucket.org/pangolinpaw/test_deck/raw/d7c130d7de5ffcbdedab4687c31d6a19a1b49ea5/assets/sample_output.png)
+![sample output page with plain text detail of several MTG cards](https://github.com/GarethMurden/mtg_test_teck/blob/master/assets/sample_output.png)
 
 The generated cards are intended to insert into sleeves in front of existing cards and roughly overlay the card text area.
 
 #### Full cards
 
-![sample output page with images of several MTG cards arranged in a grid](https://bitbucket.org/pangolinpaw/test_deck/raw/138f46f9961f2283c4c1a05c413f78aed05314fe/assets/sample_output_02.png)
+![sample output page with images of several MTG cards arranged in a grid](https://github.com/GarethMurden/mtg_test_teck/blob/master/assets/sample_output_02.png)
 
 The generated cards are intended to insert into sleeves and are roughly the same size as official cards.
 
